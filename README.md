@@ -7,6 +7,10 @@ Definir todos los casos de prueba de borde de las siguientes funcionalidades/sit
 
 Considerando el sistema Bancario en Chile, para la funcionalidad de "estado de cuenta de una tarjeta de credito", teniendo en cuenta que se genera un pdf con toda la informacion de facturacion del mes, crear los todos los casos de prueba posible y para este caso incluir la data utilizada, y que casos borde o limite y críticos probarias.
 Considerando la página web de retail, describir que casos de prueba borde o limite y casos criticos harias para probar que la bolsa de compra funciona correctamente.
+
+//////////////----Realizado en el archivo caso1.feature------------------/////////////////////////////////////////
+/////////////-----Realizado en el archivo caso2_bolsadecompras.feature ----------////////////////////////////////
+
 Parte 2
 
 La página web a utilizar será Google y Tottus
@@ -22,3 +26,5 @@ Seleccionar Dificultad alta
 Buscar corona de Rollitos de canela
 
 Y validar que la receta tenga canela y azúcar rubia.
+
+/////////-------Realizado en el archivo bucartottusnataniel.feature y pruebatottus.js --------------////////////
